@@ -16,10 +16,12 @@ React, TypeScript 기반의 2년차 프론트엔드 개발자로,
 개발자의 가치는 비즈니스 가치를 구현하는데서 나온다고 믿습니다. 주도적으로 업무를 진행할 수 있는 환경을 선호합니다.
 ```
 
-<div align="center">
+<br>
+
+<div align="left">
 <a href="https://fkawnltjsejdj.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/click!-blog?style=social&logo=readme&logoColor=0ABF53&label=Blog%20%7C%20Tistory" /></a>
 </div>
 
-<div align="center">
+<div align="left">
 <a href="https://translucent-bit-b63.notion.site/21fa47c9249a80739a0fed158b04b818?pvs=73" target="_blank"><img src="https://img.shields.io/badge/click!-portfolio?style=social&logo=readme&logoColor=2C5BB4&label=Portfolio%20%7C%20Notion" /></a>
 </div>
