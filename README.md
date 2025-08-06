@@ -1,4 +1,8 @@
+<div align="center">
+
 ![header](https://capsule-render.vercel.app/api?type=venom&height=300&color=gradient&text=ygleee&desc=FrontEnd%20Developer&section=header&reversal=false&textBg=false&fontColor=000000&fontSize=100&fontAlign=65&animation=twinkling&descAlignY=64&descAlign=72)
+
+</div>
 
 <!-- 애니메이션 스타일 -->
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F75C7E&width=435&lines=Frontend+Developer;React+%26+TypeScript+Enthusiast;Always+learning+new+things" />
