@@ -23,5 +23,5 @@ React, TypeScript 기반의 2년차 프론트엔드 개발자로,
 </div>
 
 <div align="left">
-<a href="https://translucent-bit-b63.notion.site/21fa47c9249a80739a0fed158b04b818?pvs=73" target="_blank"><img src="https://img.shields.io/badge/click!-portfolio?style=social&logo=readme&logoColor=2C5BB4&label=Portfolio%20%7C%20Notion" /></a>
+<a href="https://translucent-bit-b63.notion.site/Portfolio-263a47c9249a804cae0ecac5e8be8eb9?pvs=73" target="_blank"><img src="https://img.shields.io/badge/click!-portfolio?style=social&logo=readme&logoColor=2C5BB4&label=Portfolio%20%7C%20Notion" /></a>
 </div>
